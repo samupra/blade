@@ -7,4 +7,4 @@ Using `pyaudio` and `speech recognition(wit)` to control my ubuntu system via vo
 
 To run in daemon mode :
 
-`python3 blade.py 'TOKEN > stdout.txt 2>stderr.txt &`
+`python3 blade.py 'TOKEN' > stdout.txt 2>stderr.txt &`
