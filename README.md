@@ -1,6 +1,5 @@
-#blade
-
-Using pyaudio and speech recognition to control my ubuntu system via voice command
+# Blade
+Using `pyaudio` and `speech recognition(wit)` to control my ubuntu system via voice command
 1. Open Spotify
 2. Open Netflix
 3. Suspend/Sleep
