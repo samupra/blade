@@ -2,7 +2,7 @@
 # Then pass your Authorization header token as first argument to this script
 # For ex, under Settings of your app in Wit.ai, you will see a token in the following format :
 # Authorization : Bearer XYZ (32 strings long), copy the XYZ part and
-# run this script as follows, python blade-sleep.py XYZ
+# run this script as follows, python blade.py XYZ
 import time
 import sys
 import os
